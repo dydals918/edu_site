@@ -33,4 +33,4 @@ back-end 3
 - **IDE** : Intellli J
 - **Database** : MySQL
 - **ORM** : JPA
-- **Dependency** : Spring JDBC, Spring JPA, Spring web, Spring security, thymeleaf, p6spy
+- **Dependency** : Spring JDBC, Spring JPA, Spring web, Spring security, thymeleaf, p6spy, lombok
