@@ -19,7 +19,7 @@ back-end 1
 - front thymeleaf 적용
 
 **back-end 2 (Me)**
-- Account, Category, Company, Exam, Rating, Survey 모듈 테스트 코드 작성 및 기능 구현
+- Account, Category, Company, Exam, Rating, Survey 모듈 기능 구현
 - front thymeleaf 적용
 - Spring Security 설정 및 적용
                       
