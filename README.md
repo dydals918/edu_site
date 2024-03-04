@@ -9,17 +9,19 @@
 
 ## 팀 구성
 
-front-end 1 : 프로젝트 HTML and CSS
+front-end 1
+- 프로젝트 HTML and CSS
 
-back-end 1 : 프로젝트 구성, 설계 및 테스트 코드 설계, main git 담당, front thymeleaf 적용
+back-end 1
+- 프로젝트 구성, 설계 및 테스트 코드 설계, main git 담당, front thymeleaf 적용
 
-**back-end 2 (Me)** : Account, Category, Company, Exam, Rating, Survey 모듈 테스트 코드 작성 및 기능 구현
-<br/>
-                      front thymeleaf 적용
-                      <br/>                      
-                      Spring Security 설정 및 적용
+**back-end 2 (Me)**
+- Account, Category, Company, Exam, Rating, Survey 모듈 테스트 코드 작성 및 기능 구현
+- front thymeleaf 적용
+- Spring Security 설정 및 적용
                       
-back-end 3 : Lecture 모듈 테스트 코드 작성 및 기능 구현
+back-end 3
+- Lecture 모듈 테스트 코드 작성 및 기능 구현
 
 
 ## 개발환경
